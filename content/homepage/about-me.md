@@ -4,8 +4,6 @@ weight: 3
 header_menu: true
 ---
 
-![Denise Souza](images/denisesouza.jpeg)
-
 ##### Formação Profissional
 
 * **Cuidadora de Idosos** - 2019 - Hospital Reger
@@ -21,3 +19,5 @@ header_menu: true
 Cuidado diário de diversos paciente durante meus mais de 8 anos de experiência, com os quais criei vínculos afetivos, de confiança e amizade. Sempre efetuando um trabalho humanizado, com respeito e carinho aos momentos de maior fragilidade da vida.
 
 Caso necessário, entre em contato para referências de meus antigos pacientes.
+
+![Denise Souza](images/denisesouza.jpeg)
