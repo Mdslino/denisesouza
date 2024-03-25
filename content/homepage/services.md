@@ -6,14 +6,31 @@ weight: 2
 header_menu: true
 ---
 
-Aqui colocamos uma breve descrição dos serviços oferecidos.
+Atualmente, ofereço os seguintes serviços:
 
 ---
 
-### Serviço 1
+### Acompanhamento de Consultas Médicas e Exames
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Durante o acompanhamento em consultas médicas, eu executo as seguintes tarefas:
 
-### Serviço 2
+* Anotações de diagnósticos, recomendações e prescrições médicas
+* Acompanhamento durante o trajeto (translado não incluso)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Acompanhamento em Passeios
+
+* Condução segura do paciente
+* Comunicação frequente, simpática, respeitosa e empática
+
+### Cuidados Pessoais
+
+* Higiene pessoal
+* Alimentação
+* Administração de medicamentos
+
+### Acompanhamento noturno
+
+* Organização do ambiente de forma segura e prática, para que o cuidado seja facilitado nos momentos sem cuidador especializado
+* Garantia de segurança, bem-estar e conforto
+* Medicamentos administrados conforme prescrição médica
+* Acompanhamento em caso de emergência
