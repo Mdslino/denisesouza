@@ -16,7 +16,7 @@ header_menu: true
 
 ##### Experiência Profissional
 
-Cuidado diário de diversos pacientes durante meus mais de 8 anos de experiência, com os quais criei vínculos afetivos, de confiança e amizade. Sempre efetuando um trabalho humanizado, com respeito e carinho aos momentos de maior fragilidade da vida.
+Cuidado diário de diversos pacientes durante mais de 8 anos de experiência, com os quais criei vínculos afetivos, de confiança e amizade. Sempre efetuando um trabalho humanizado, com respeito e carinho aos momentos de maior fragilidade da vida.
 
 Caso necessário, entre em contato para referências de meus antigos pacientes.
 
