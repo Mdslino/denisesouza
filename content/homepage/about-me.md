@@ -6,10 +6,18 @@ header_menu: true
 
 ![Denise Souza](images/denisesouza.jpeg)
 
+##### Formação Profissional
+
+* **Cuidadora de Idosos** - 2019 - Hospital Reger
+* **Cuidadora de Idosos** - 2022 - SENAC
+* **Quick Massage** - 2022 - SENAC
+* **Massagem Relaxante** - 2022 - SENAC
+* **Massagem com óleos** - 2022 - SENAC
+* **Aroma Terapia** - 2022 - SENAC
+* **Auxiliar de Enfermagem** - Em formação Jul/2024 - SENAC
+
 ##### Experiência Profissional
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Cuidado diário de diversos paciente durante meus mais de 8 anos de experiência, com os quais criei vínculos afetivos, de confiança e amizade. Sempre efetuando um trabalho humanizado, com respeito e carinho aos momentos de maior fragilidade da vida.
 
-----
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Caso necessário, entre em contato para referências de meus antigos pacientes.
