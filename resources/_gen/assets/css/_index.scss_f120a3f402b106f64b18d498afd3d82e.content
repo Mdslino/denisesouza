@@ -246,11 +246,11 @@ a.fn-item {
   color: var(--sticky-menu-text-color); }
 
 /* Footer Icons */
-.icons ol {
-  padding-left: 0; }
-
-.icons li {
-  display: inline-block; }
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 8px; }
 
 /* Footer Links */
 .site-footer .links {
