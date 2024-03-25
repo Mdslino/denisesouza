@@ -1,0 +1,33 @@
+# Hugo output directory
+/public/
+
+# Hugo cache directory
+/resources/_gen/
+
+# Ignore generated files
+/resources/_gen/*
+
+# Ignore logs
+/log/
+
+# Ignore temporary files
+/tmp/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore editor specific files
+.vscode/
+.idea/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore package-lock.json for npm projects
+package-lock.json
+
+# Ignore yarn.lock for yarn projects
+yarn.lock
