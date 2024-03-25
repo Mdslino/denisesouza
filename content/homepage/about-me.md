@@ -11,7 +11,7 @@ header_menu: true
 * **Quick Massage** - 2022 - SENAC
 * **Massagem Relaxante** - 2022 - SENAC
 * **Massagem com óleos** - 2022 - SENAC
-* **Aroma Terapia** - 2022 - SENAC
+* **Aromaterapia** - 2022 - SENAC
 * **Auxiliar de Enfermagem** - Em formação Jul/2024 - SENAC
 
 ##### Experiência Profissional
