@@ -64,3 +64,10 @@ title = "Denise Souza - Cuidadora de Idosos"
     [params.contact]
         email = "daslino@gmail.com"
         phone = "+55 12 981303747"
+
+
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-4D61RTQ6Z7'
+
